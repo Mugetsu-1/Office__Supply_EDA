@@ -53,6 +53,3 @@ The dataset is used strictly for **practice and learning purposes** and represen
 This project strengthens foundational concepts in data analysis and data science, including working with datasets, performing EDA, and communicating insights visually.
 
 
-
----
-
